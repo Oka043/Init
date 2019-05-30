@@ -1,0 +1,3 @@
+crontab
+to check existing sheduels run command sudo crontab -l
+to edit sudo crontab -e

@@ -1,0 +1,4 @@
+dig IP/website
+4th column (A, NS)
+or nslookup
+our server is DNS server
